@@ -22,7 +22,7 @@ Input Variables
 * X\_test raw data from "X\_test.txt"
 
 * subject\_train raw data from "subject\_train.txt"
-* subject\test raw data from "subject\_test.txt"
+* subject\_test raw data from "subject\_test.txt"
 
 * the units of the above variables are from the raw dataset
 
