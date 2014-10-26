@@ -1,7 +1,7 @@
-Getting-and-Cleaning-Data-Course-Project
+#Getting-and-Cleaning-Data-Course-Project
 
-#This script performs the data cleaning required in project for the Coursera course: Getting and Cleaning Data.
-## Dependencies: reshape2
+This script performs the data cleaning required in project for the Coursera course: Getting and Cleaning Data.
+Dependencies: reshape2
 
 ## To use the script:
 
